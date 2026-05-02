@@ -1,0 +1,5 @@
+[project]
+name = "par-iiserie"
+version = "0.1.0"
+description = "Página web estática (HTML/CSS) servida con Python estándar"
+requires-python = ">=3.8"

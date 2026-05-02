@@ -1,0 +1,9 @@
+# Este proyecto no usa paquetes de PyPI: solo la biblioteca estándar (http.server).
+# El archivo sirve para entornos virtuales y para que `pip install -r requirements.txt` sea válido.
+#
+# Requisito: Python 3.8+
+#
+# Crear y usar un venv (opcional):
+#   python -m venv .venv
+#   .venv\Scripts\activate
+#   pip install -r requirements.txt
